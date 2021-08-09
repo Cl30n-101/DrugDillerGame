@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2010\Projects\Драг диллер\Драг диллер\bin\Debug\Драг диллер.exe
+c:\users\user\documents\visual studio 2010\Projects\Драг диллер\Драг диллер\bin\Debug\Драг диллер.pdb
+c:\users\user\documents\visual studio 2010\Projects\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.exe
+c:\users\user\documents\visual studio 2010\Projects\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.pdb
+C:\Users\User\documents\visual studio 2010\Projects\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Драг диллер\Драг диллер\bin\Debug\Драг диллер.exe
+C:\Users\User\source\repos\Драг диллер\Драг диллер\bin\Debug\Драг диллер.pdb
+C:\Users\User\source\repos\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.exe
+C:\Users\User\source\repos\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.pdb
+C:\Users\User\source\repos\Драг диллер\Драг диллер\obj\x86\Debug\Драг диллер.csproj.AssemblyReference.cache
